@@ -2,14 +2,20 @@
   background-image: url("behind.jpg");
   background-color: blue;
 }
+
 .mainhead {
   padding-top: 13rem;
   padding-bottom: 13rem;
   font-weight: bold;
   color: white;
 }
+
 .icons {
   padding-top: 7rem;
   padding-bottom: 7rem;
   height: 7rem;
+}
+
+.fa {
+  margin: 2rem;
 }
