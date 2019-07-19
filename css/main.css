@@ -1,11 +1,11 @@
 .behind {
   background-image: url("behind.jpg");
-  background-color: blue;
+  background-color: lightblue;
 }
 
 .mainhead {
-  padding-top: 13rem;
-  padding-bottom: 13rem;
+  padding-top: 11rem;
+  padding-bottom: 11rem;
   font-weight: bold;
   color: white;
 }
