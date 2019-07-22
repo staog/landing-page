@@ -21,13 +21,16 @@
 }
 
 #green {
+  min-height: 30rem;
   background-color: green;
 }
 
 #red {
+  min-height: 30rem;
   background-color: red;
 }
 
 #blue {
+  min-height: 30rem;
   background-color: blue;
 }
