@@ -48,15 +48,51 @@
 
 #green {
   min-height: 30rem;
-  background-color: green;
+  background-image: url("h1.jpeg");
+  background-size: 100% 100%;
 }
 
 #red {
   min-height: 30rem;
-  background-color: red;
+  background-image: url("h2.jpeg");
+  background-size: 100% 100%;
 }
 
 #blue {
   min-height: 30rem;
-  background-color: blue;
+  background-image: url("h3.jpeg");
+  background-size: 100% 100%;
+}
+
+.gray {
+  padding: 3rem;
+  background-color: lightgray;
+}
+
+h2 {
+  margin: auto;
+}
+
+.test {
+  top: 2rem;
+  text-align: center;
+}
+
+.pic {
+  width: 200px;
+  height: 200px;
+  max-width: 200px;
+  max-height: 200px;
+} 
+
+.second {
+  padding-top: 7rem;
+  padding-bottom: 7rem;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+}
+
+.ready {
+  padding: 2rem;
 }
