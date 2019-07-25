@@ -96,3 +96,8 @@ h2 {
 .ready {
   padding: 2rem;
 }
+
+.footer {
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+}
