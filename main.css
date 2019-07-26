@@ -3,6 +3,10 @@
   background-color: lightgrey;
 }
 
+.navbar-brand {
+  color: grey;
+}
+
 .mainhead {
   padding-top: 11rem;
   padding-bottom: 11rem;
