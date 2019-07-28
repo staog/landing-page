@@ -105,3 +105,11 @@ h2 {
   padding-top: 4rem;
   padding-bottom: 4rem;
 }
+
+.left {
+  width: 50%;
+}
+
+.right {
+  width: 50%;
+}
